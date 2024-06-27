@@ -8,7 +8,7 @@ My name is Alevtina, and I am a QA Engineer. I have always been passionate about
 
 Feel free to explore my portfolio and connect with me!
 
- - 📫 **How to Сontact Me:** [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alevtina-semeniuk/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.alevtina@gmail.com)
+ - ### 📫 How to Сontact Me:
 </p>
 <a href= "https://https://www.linkedin.com/in/alevtina-semeniuk/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
 <a href= "https://t.me/Alevtini_s"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
