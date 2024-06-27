@@ -16,7 +16,7 @@ Feel free to explore my portfolio and connect with me!
 </p>
 
 ---
-### TOOLS 🛠
+## 📌 Tools 
 ### 📁 Test Documentation:
 
 <div>
@@ -70,5 +70,5 @@ Feel free to explore my portfolio and connect with me!
 
 ---
 
-### Testing Artefacts:
+## 📌 Testing Artefacts
 
