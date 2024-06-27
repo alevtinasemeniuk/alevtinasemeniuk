@@ -1,10 +1,12 @@
-# Привет, меня зовут Артем!
+# Hi there 👋
 
 ---
 
-### 👨‍💻 Обо мне:
+### 👨‍💻 About Me:
 
-Я тестировщик и создатель курсов по различным направлениям тестирования. Основной домен - тестирование веб-приложений (front + back). У меня есть канал на YouTube с аудиторией более 158.000 человек. Зв время преподавтаельсккой деятельности обучил более 10.000 студентов на разных платформах.
+My name is Alevtina, and I am a QA Engineer. I have always been passionate about testing, which led me to start my journey as a tester by working freelance on a crowdsourcing platform. To further my professional growth and acquire new skills in testing, I pursued additional education. As a result, I completed a course in functional software testing. I am excited to share my projects and the skills I have gained along the way.
+
+Feel free to explore my portfolio and connect with me!
 
 - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
 
