@@ -8,7 +8,9 @@ My name is Alevtina, and I am a QA Engineer. I have always been passionate about
 
 Feel free to explore my portfolio and connect with me!
 
-<--! - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
+<!--
+
+ - 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
 
 ---
 
@@ -79,7 +81,8 @@ Feel free to explore my portfolio and connect with me!
   
 </div>
 
---- !-->
+--- 
+--- -->
 
 <!-- ### 💻 Пройденные курсы:
 
