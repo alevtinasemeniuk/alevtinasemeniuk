@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me:
 
-My name is Alevtina, and I am a QA Engineer. I have always been passionate about testing, which led me to start my journey as a tester by working freelance on a [crowdsourcing platform](https://drive.google.com/file/d/1YIN3A9wFFwfi1Jup4NUMCYqpb0Tri-Hv/view?usp=sharing). To further my professional growth and acquire new skills in testing, I pursued additional education. As a result, I completed a [course in functional software testing](). I am excited to share my projects and the skills I have gained along the way.
+My name is Alevtina, and I am a QA Engineer. I have always been passionate about testing, which led me to start my journey as a tester by working freelance on a [crowdsourcing platform](https://drive.google.com/file/d/1YIN3A9wFFwfi1Jup4NUMCYqpb0Tri-Hv/view?usp=sharing). To further my professional growth and acquire new skills in testing, I pursued additional education. As a result, I completed a [functional software testing course](). I am excited to share my projects and the skills I have gained along the way.
 
 Feel free to explore my portfolio and connect with me!
 
