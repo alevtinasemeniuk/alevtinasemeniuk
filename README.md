@@ -73,6 +73,6 @@ Feel free to explore my portfolio and connect with me!
 ## 📌 Testing Artefacts
 - [Testing Theory](https://github.com/alevtinasemeniuk/theory)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alevtinasemeniuk)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alevtinasemeniuk.alevtinasemeniuk)
 
 
