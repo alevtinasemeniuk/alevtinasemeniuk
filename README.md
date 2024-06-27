@@ -82,7 +82,7 @@ Feel free to explore my portfolio and connect with me!
 </div>
 
 --- 
---- -->
+
 
 <!-- ### 💻 Пройденные курсы:
 
@@ -93,3 +93,4 @@ Feel free to explore my portfolio and connect with me!
 --- -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
+--- -->
