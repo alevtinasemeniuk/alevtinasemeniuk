@@ -16,7 +16,7 @@ My name is Alevtina, and I am a QA Engineer. I have always been passionate about
 </p>
 
 ---
-## 📌 Tools 
+## 📌 Some Tools I Use
 ### 📁 Test Documentation:
 
 <div>
