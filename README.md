@@ -79,6 +79,7 @@ My name is Alevtina, and I am a QA Engineer. I have always been passionate about
 - [Working with Databases](https://github.com/alevtinasemeniuk/database)
 - [Mobile App Testing](https://github.com/alevtinasemeniuk/mobile)
 - [Working with Git and Bash](https://github.com/alevtinasemeniuk/git_bash)
+  
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alevtinasemeniuk.alevtinasemeniuk)
