@@ -86,4 +86,8 @@ My name is Alevtina, and I am a QA Engineer. I have always been passionate about
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alevtinasemeniuk.alevtinasemeniuk)
 
+![Profile views](https://gpvc.arturio.dev/alevtinasemeniuk)
+[![GitHub followers](https://img.shields.io/github/followers/alevtinasemeniuk?style=social)](https://github.com/alevtinasemeniuk)
+
+
 
