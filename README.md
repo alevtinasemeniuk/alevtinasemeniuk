@@ -72,8 +72,13 @@ My name is Alevtina, and I am a QA Engineer. I have always been passionate about
 
 ## 📌 Testing Artefacts
 - [Testing Theory](https://github.com/alevtinasemeniuk/theory)
-- [Test design techniques](https://github.com/alevtinasemeniuk/design)
-- [Test documentation](https://github.com/alevtinasemeniuk/docs)
+- [Test Design Techniques](https://github.com/alevtinasemeniuk/design)
+- [Test Documentation](https://github.com/alevtinasemeniuk/docs)
+- [Web Application Testing](https://github.com/alevtinasemeniuk/web/tree/main)
+- [API Testing](https://github.com/alevtinasemeniuk/api)
+- [Working with Databases](https://github.com/alevtinasemeniuk/database)
+- [Mobile App Testing](https://github.com/alevtinasemeniuk/mobile)
+- [Working with Git and Bash](https://github.com/alevtinasemeniuk/git_bash)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alevtinasemeniuk.alevtinasemeniuk)
