@@ -59,7 +59,7 @@ My name is Alevtina, and I am a QA Engineer. I have always been passionate about
 
 ---
 
-### ✏️ Working with code:
+### ✏️ Working with Code:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
