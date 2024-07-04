@@ -8,11 +8,12 @@ My name is Alevtina, and I am a QA Engineer. I have always been passionate about
 
  ✨ Please feel free to check out my portfolio and let’s connect! ✨
 
+### [My CV](https://drive.google.com/file/d/1nZwfvAIW5i6vfq31aPJAqw-AB78yiYU1/view?usp=sharing)
 ### 📫 How to Сontact Me:
 </p>
 <a href= "https://www.linkedin.com/in/alevtina-semeniuk/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
 <a href= "https://t.me/Alevtini_s"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
-<a href= "mailto:alewtinni@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
+<a href= "mailto:alevtina.semeniuk@outlook.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
 </p>
 
 ---
