@@ -13,7 +13,7 @@ My name is Alevtina, and I am a QA Engineer. I have always been passionate about
 </p>
 <a href= "https://www.linkedin.com/in/alevtina-semeniuk/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
 <a href= "https://t.me/Alevtini_s"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
-<a href= "mailto:alevtina.semeniuk@outlook.com"><img src="https://img.icons8.com/?size=100&id=2ukItqgpMku7&format=png&color=000000" width="40" height="40" alt="gmail"/></a>
+<a href= "mailto:alevtina.semeniuk@outlook.com"><img src="https://img.icons8.com/?size=100&id=124379&format=png&color=FAB005" width="40" height="40" alt="gmail"/></a>
 </p>
 
 ---
