@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me:
 
-My name is Alevtina, and I am a QA Engineer. I have always been passionate about testing, which led me to start my journey as a tester by working freelance on a crowdsourcing platform. To further my professional growth and acquire new skills in testing, I pursued additional education. As a result, I completed a [functional software testing course](https://drive.google.com/file/d/1B41c-VyHh0fN3oceMHQx3ZSOIixXY8Hq/view?usp=sharing). I am excited to share my projects and the skills I have gained along the way.
+I am Alevtina, a passionate Software QA Engineer with experience in both manual and automated testing. My background includes working on various projects, such as testing web and mobile applications, developing automated tests with Java, and ensuring the best user experience. With a keen eye for detail, I’m always eager to learn and take on new challenges, focusing on delivering quality results and seamless user experiences. 
 
  ✨ Please feel free to check out my portfolio and let’s connect! ✨
 
